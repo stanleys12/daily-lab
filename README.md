@@ -17,3 +17,4 @@ Each project lives in its own folder with a README and is runnable with plain `p
 
 | Date | Project | What it is |
 |------|---------|------------|
+| 2026-08-29 | [lsystem-garden](projects/2026-08-29-lsystem-garden) | Grammar-driven fractal plants/curves (L-systems) rendered to SVG via a hand-rolled turtle interpreter |
