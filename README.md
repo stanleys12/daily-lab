@@ -19,3 +19,4 @@ Each project lives in its own folder with a README and is runnable with plain `p
 |------|---------|------------|
 | 2026-08-29 | [lsystem-garden](projects/2026-08-29-lsystem-garden) | Grammar-driven fractal plants/curves (L-systems) rendered to SVG via a hand-rolled turtle interpreter |
 | 2026-08-30 | [phantom-traffic-jam](projects/2026-08-30-phantom-traffic-jam) | Nagel-Schreckenberg traffic cellular automaton showing backward-propagating "phantom" jams, animated in-terminal and rendered as a PPM space-time diagram |
+| 2026-08-31 | [thompson-regex](projects/2026-08-31-thompson-regex) | Regex engine built from scratch: recursive-descent parser + Thompson NFA construction, matched via parallel-thread simulation (no backtracking, no `re` module) |
