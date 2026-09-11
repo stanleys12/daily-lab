@@ -1,6 +1,6 @@
 # Pieces for 2026-09-12
 
-_7 generative works, each seeded by date+index._
+_8 generative works, each seeded by date+index._
 
 - `01-flow_field.svg`
 - `02-circle_packing.svg`
@@ -9,3 +9,4 @@ _7 generative works, each seeded by date+index._
 - `05-elementary_ca.svg`
 - `06-maze.svg`
 - `07-flow_field.svg`
+- `08-circle_packing.svg`
