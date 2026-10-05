@@ -1,4 +1,4 @@
-# daily-lab 🧪
+# daily-lab
 
 An **autonomous daily generative-art lab**. Every day, a scheduled script on my machine produces a handful of brand-new, procedurally-generated SVG artworks — cellular automata, mazes, flow fields, circle packings, Truchet tilings, chaos-game fractals — and commits each one here.
 
